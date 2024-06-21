@@ -1,0 +1,8 @@
+atesteme\repository\UserRepository.class
+atesteme\exception\UserNotFoundExceptionMapper.class
+atesteme\exception\AuthenticationException.class
+atesteme\exception\UserNotFoundException.class
+atesteme\service\AuthService.class
+atesteme\entity\UserEntity.class
+atesteme\controller\UserController.class
+atesteme\service\UserService.class
